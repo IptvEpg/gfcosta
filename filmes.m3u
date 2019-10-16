@@ -1,0 +1,25 @@
+#EXTM3U
+ 
+#EXTINF:-1,Stuber
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/STBRLEG.mp4?attachment=true
+
+#EXTINF:-1,Homem-Aranha: Longe de Casa
+http://cdn.netcine.me/html/content/conteudolb4/filmes2019/HOMEMARANHACASAHDLEG-BAIXO.mp4?token=GYj0XeFT4OgZL9VoYeiv9A&expires=1571288669
+
+#EXTINF:-1,Running with the Devil
+http://cdn.netcine.me/html/content/conteudolb4/filmes2019/RUNNINGWITHTHEEVILLEG-BAIXO.mp4?token=2xRTj0fZdRhMCwvIfjXL2A&expires=1571286979
+
+#EXTINF:-1,O Rei Leão
+http://cdn.netcine.me/html/content/conteudolb4/filmes2019/OREILEAODUB-BAIXO.mp4?token=FiA5JHBZdGjMDwvbjyct9Q&expires=1571288761
+
+#EXTINF:-1,Toy Story 4
+http://cdn.netcine.me/html/content/conteudolb4/filmes2019/TOYSTORY4DUB-BAIXO.mp4?token=7iP45PyrRKqZiLs26Hfr6w&expires=1571288864
+
+#EXTINF:-1,Em Busca da Vitória
+http://cdn.netcine.me/html/content/conteudolb4/filmes2019/EMBUSCADAVITORIADUB-BAIXO.mp4?token=ti1R-yoD9hqn8t1HQDBwvA&expires=1571288941
+
+#EXTINF:-1,Velozes e Furiosos: Hobbs & Shaw
+http://cdn.netcine.me/html/content/conteudolb4/filmes2019/FASTANDFURIOUSHDLEG02-BAIXO.mp4?token=wCgpezILIupKfZTuLHrUNw&expires=1571289048
+
+#EXTINF:-1,Perdidos na Neve
+http://cdn.netcine.me/html/content/conteudolb4/filmes2019/PERDIDOSNANEVEDUB-BAIXO.mp4?token=t6z3s1g30iOqcEo4f7ZDyw&expires=1571289384
