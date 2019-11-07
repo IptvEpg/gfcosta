@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2849" aspect-ratio="16:9" size="Medium", RTP1  HD
+http://luso.pw:8080/live/fabiouk/fabioik/23067.ts
+#EXTINF:0 type="stream" channelId="2833" aspect-ratio="16:9" size="Medium", RTP 2 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23070.ts
+#EXTINF:0 type="stream" channelId="3256" aspect-ratio="16:9" size="Medium", SIC HD
+http://luso.pw:8080/live/fabiouk/fabioik/23075.ts
+#EXTINF:0 type="stream" channelId="2647" aspect-ratio="16:9" size="Medium", TVI HD
+http://luso.pw:8080/live/fabiouk/fabioik/23077.ts
+#EXTINF:0 type="stream" channelId="2646" aspect-ratio="16:9" size="Medium", SIC NOTICIAS HD
+http://luso.pw:8080/live/fabiouk/fabioik/23079.ts
+#EXTINF:0 type="stream" channelId="2648" aspect-ratio="16:9" size="Medium", TVI 24 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23082.ts
+#EXTINF:0 type="stream" channelId="3240" aspect-ratio="16:9" size="Medium", RTP 3
+http://luso.pw:8080/live/fabiouk/fabioik/23072.ts
+#EXTINF:0 type="stream" channelId="4167" aspect-ratio="16:9" size="Medium", CMTV FHD
+http://luso.pw:8080/live/fabiouk/fabioik/23085.ts
+#EXTINF:0 type="stream" channelId="2852" aspect-ratio="16:9" size="Medium", SIC MULHER
+http://luso.pw:8080/live/fabiouk/fabioik/23095.ts
+#EXTINF:0 type="stream" channelId="3243" aspect-ratio="16:9" size="Medium", SIC CARAS HD
+http://luso.pw:8080/live/fabiouk/fabioik/23094.ts
+#EXTINF:0 type="stream" channelId="4166" aspect-ratio="16:9" size="Medium", Canal 11 FHD
+http://luso.pw:8080/live/fabiouk/fabioik/23134.ts
+#EXTINF:0 type="stream" channelId="2644" aspect-ratio="16:9" size="Medium", RTP Memoria
+http://luso.pw:8080/live/fabiouk/fabioik/23207.ts
+#EXTINF:0 type="stream" channelId="2649" aspect-ratio="16:9" tvg-country="PO" size="Medium", TVI FICCAO
+http://luso.pw:8080/live/fabiouk/fabioik/23098.ts
+#EXTINF:0 type="stream" channelId="2855" aspect-ratio="16:9" size="Medium", PORTO CANAL HD
+http://luso.pw:8080/live/fabiouk/fabioik/23139.ts
+#EXTINF:0 type="stream" channelId="2863" aspect-ratio="16:9" size="Medium", A BOLA TV
+http://luso.pw:8080/live/fabiouk/fabioik/23142.ts
+#EXTINF:0 type="stream" channelId="2892" aspect-ratio="16:9" size="Medium", GLOBO FHD
+http://luso.pw:8080/live/fabiouk/fabioik/23198.ts
+#EXTINF:0 type="stream" channelId="2562" aspect-ratio="16:9" size="Medium", TV RECORD HD
+http://luso.pw:8080/live/fabiouk/fabioik/23199.ts
+#EXTINF:0 type="stream" channelId="2853" aspect-ratio="16:9" size="Medium", SIC RADICAL HD
+http://luso.pw:8080/live/fabiouk/fabioik/23096.ts
+#EXTINF:0 type="stream" channelId="2854" aspect-ratio="16:9" tvg-country="PO" size="Medium", SIC K
+http://luso.pw:8080/live/fabiouk/fabioik/23195.ts
+#EXTINF:0 type="stream" channelId="1373" aspect-ratio="16:9" size="Medium", PANDA BIGGS
+http://luso.pw:8080/live/fabiouk/fabioik/23193.ts
+#EXTINF:0 type="stream" channelId="2823" aspect-ratio="16:9" size="Medium", PANDA
+http://luso.pw:8080/live/fabiouk/fabioik/23188.ts
+#EXTINF:0 type="stream" channelId="2720" aspect-ratio="16:9" size="Medium" background="https://www.nos.pt/particulares/televisao/guia-tv/Pages/channel.aspx?channel=66", DISNEY CHANNEL
+http://luso.pw:8080/live/fabiouk/fabioik/23191.ts
+#EXTINF:0 type="stream" channelId="41" aspect-ratio="16:9" size="Medium", NICKELODEON
+http://luso.pw:8080/live/fabiouk/fabioik/23189.ts
+#EXTINF:0 type="stream" channelId="322" size="Medium", Nick Jr
+http://luso.pw:8080/live/fabiouk/fabioik/23186.ts
+#EXTINF:0 type="stream" channelId="191" aspect-ratio="16:9" size="Medium", JIM JAM
+http://luso.pw:8080/live/fabiouk/fabioik/23196.ts
+#EXTINF:0 type="stream" channelId="473" aspect-ratio="16:9" tvg-country="PO" size="Medium", BABY TV
+http://luso.pw:8080/live/fabiouk/fabioik/23194.ts
+#EXTINF:0 type="stream" channelId="40" aspect-ratio="16:9" size="Medium", CARTOON NETWORK
+http://luso.pw:8080/live/fabiouk/fabioik/23192.ts
+#EXTINF:0 type="stream" channelId="1197" aspect-ratio="16:9" size="Medium", DISNEY JUNIOR
+http://luso.pw:8080/live/fabiouk/fabioik/23190.ts
+#EXTINF:0 type="stream" channelId="321" aspect-ratio="16:9" size="Medium", BOOMERANG
+http://luso.pw:8080/live/fabiouk/fabioik/23187.ts
+#EXTINF:0 type="stream" channelId="2872" aspect-ratio="16:9" size="Medium", TV CINE 1 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23159.ts
+#EXTINF:0 type="stream" channelId="2874" aspect-ratio="16:9" size="Medium", TV CINE 2 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23161.ts
+#EXTINF:0 type="stream" channelId="2876" aspect-ratio="16:9" size="Medium", TV CINE 3 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23163.ts
+#EXTINF:0 type="stream" channelId="2878" aspect-ratio="16:9" size="Medium", TV CINE 4 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23165.ts
+#EXTINF:0 type="stream" channelId="3127" aspect-ratio="16:9" size="Medium", TV SERIES HD
+http://luso.pw:8080/live/fabiouk/fabioik/23169.ts
+#EXTINF:0 type="stream" channelId="3920" aspect-ratio="16:9" size="Medium", HOLLYWOOD HD
+http://luso.pw:8080/live/fabiouk/fabioik/23157.ts
+#EXTINF:0 type="stream" channelId="3133" aspect-ratio="16:9" size="Medium", CINEMUNDO FHD
+http://luso.pw:8080/live/fabiouk/fabioik/23174.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOSHD.png" aspect-ratio="16:9" tvg-country="Po" size="Medium", NOS Studios FHD
+http://luso.pw:8080/live/fabiouk/fabioik/23154.ts
+#EXTINF:0 type="stream" channelId="2246" aspect-ratio="16:9" size="Medium", AXN HD
+http://luso.pw:8080/live/fabiouk/fabioik/23166.ts
+#EXTINF:0 type="stream" channelId="3131" aspect-ratio="16:9" size="Medium", AXN WHITE HD
+http://luso.pw:8080/live/fabiouk/fabioik/23177.ts
+#EXTINF:0 type="stream" channelId="3130" aspect-ratio="16:9" size="Medium", AXN BLACK HD
+http://luso.pw:8080/live/fabiouk/fabioik/23178.ts
+#EXTINF:0 type="stream" channelId="208" aspect-ratio="16:9" size="Medium", FOX HD
+http://luso.pw:8080/live/fabiouk/fabioik/23179.ts
+#EXTINF:0 type="stream" channelId="2249" aspect-ratio="16:9" size="Medium", Fox Comedy
+http://luso.pw:8080/live/fabiouk/fabioik/23184.ts
+#EXTINF:0 type="stream" channelId="2250" aspect-ratio="16:9" size="Medium", FOX COMEDY HD
+http://luso.pw:8080/live/fabiouk/fabioik/23185.ts
+#EXTINF:0 type="stream" channelId="205" aspect-ratio="16:9" tvg-country="PO" size="Medium", FOX LIFE HD
+http://luso.pw:8080/live/fabiouk/fabioik/23180.ts
+#EXTINF:0 type="stream" channelId="3244" tvg-country="PO" size="Medium", FOX CRIME HD
+http://luso.pw:8080/live/fabiouk/fabioik/23181.ts
+#EXTINF:0 type="stream" channelId="1862" aspect-ratio="16:9" size="Medium", Fox Movies
+http://luso.pw:8080/live/fabiouk/fabioik/23182.ts
+#EXTINF:0 type="stream" channelId="2493" aspect-ratio="16:9" size="Medium", FOX MOVIES FHD
+http://luso.pw:8080/live/fabiouk/fabioik/23183.ts
+#EXTINF:0 type="stream" channelId="1192" aspect-ratio="16:9" size="Medium", SYFY FHD
+http://luso.pw:8080/live/fabiouk/fabioik/23171.ts
+#EXTINF:0 type="stream" channelId="2717" aspect-ratio="16:9" size="Medium", AMC HD
+http://luso.pw:8080/live/fabiouk/fabioik/23173.ts
+#EXTINF:0 type="stream" channelId="3462" aspect-ratio="16:9" size="Medium", BLAZE
+http://luso.pw:8080/live/fabiouk/fabioik/23210.ts
+#EXTINF:0 type="stream" channelId="225" aspect-ratio="16:9" size="Medium", EUROSPORT 1 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23145.ts
+#EXTINF:0 type="stream" channelId="83" aspect-ratio="16:9" size="Medium", EUROSPORT 2
+http://luso.pw:8080/live/fabiouk/fabioik/23146.ts
+#EXTINF:0 type="stream" channelId="1376" aspect-ratio="16:9" size="Medium", SPORTING TV HD
+http://luso.pw:8080/live/fabiouk/fabioik/23141.ts
+#EXTINF:0 type="stream" channelId="2864" size="Medium", BTV 1 FULL HD
+http://luso.pw:8080/live/fabiouk/fabioik/23136.ts
+#EXTINF:0 type="stream" channelId="3242" size="Medium", SPORT TV + HD
+http://luso.pw:8080/live/fabiouk/fabioik/23117.ts
+#EXTINF:0 type="stream" channelId="1582" tvg-country="Po" size="Medium", SPORT TV 1
+type="stream" channelId="1582" tvg-country="Po" size="Medium", SPORT TV 1
+#EXTINF:0 type="stream" channelId="1583" logo="https://www.meo.pt/PublishingImages/canais/sport-tv1-hd.png" aspect-ratio="16:9" tvg-country="PT" size="Medium", SPORT TV 1 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23119.ts
+#EXTINF:0 type="stream" channelId="2858" logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_2HD.png" aspect-ratio="16:9" tvg-country="PT" size="Medium", SPORT TV 2 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23122.ts
+#EXTINF:0 type="stream" channelId="2859" logo="https://www.meo.pt/PublishingImages/canais/sport-tv3-hd.png" tvg-country="PT" size="Medium", SPORT TV 3 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23125.ts
+#EXTINF:0 type="stream" channelId="2860" logo="https://www.meo.pt/PublishingImages/canais/sport-tv4-hd.png" tvg-country="PT" size="Medium", SPORT TV 4 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23128.ts
+#EXTINF:0 type="stream" channelId="2861" logo="https://www.meo.pt/PublishingImages/canais/sport-tv5-hd.png" tvg-country="PT" size="Medium", SPORT TV 5 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23131.ts
+#EXTINF:0 type="stream" channelId="3194" size="Medium", ELEVEN SPORT 1  HD
+http://luso.pw:8080/live/fabiouk/fabioik/23107.ts
+#EXTINF:0 type="stream" channelId="3196" size="Medium", ELEVEN SPORTS 2 FHD
+http://luso.pw:8080/live/fabiouk/fabioik/23110.ts
+#EXTINF:0 type="stream" channelId="3195" size="Medium", ELEVEN SPORTS 3 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23112.ts
+#EXTINF:0 type="stream" channelId="3657" size="Medium", ELEVEN SPORTS 4 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23113.ts
+#EXTINF:0 type="stream" channelId="4168" size="Medium", ELEVEN SPORTS 5 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23114.ts
+#EXTINF:0 type="stream" channelId="4169" size="Medium", ELEVEN SPORTS 6 HD
+http://luso.pw:8080/live/fabiouk/fabioik/23115.ts
+#EXTINF:0 type="stream" channelId="3125" aspect-ratio="16:9" tvg-country="PO" size="Medium", 24 KITCHEN
+http://luso.pw:8080/live/fabiouk/fabioik/23227.ts
+#EXTINF:0 type="stream" channelId="3671" aspect-ratio="16:9" size="Medium", My Cuisine
+http://luso.pw:8080/live/fabiouk/fabioik/23224.ts
+#EXTINF:0 type="stream" channelId="2870" aspect-ratio="16:9" size="Medium", CANAL Q
+http://luso.pw:8080/live/fabiouk/fabioik/23221.ts
+#EXTINF:0 type="stream" channelId="2244" aspect-ratio="16:9" size="Medium", CRIME   INVESTIGATION
+http://luso.pw:8080/live/fabiouk/fabioik/23209.ts
+#EXTINF:0 type="stream" channelId="2869" aspect-ratio="16:9" size="Medium", ODISSEIA
+http://luso.pw:8080/live/fabiouk/fabioik/23220.ts
+#EXTINF:0 type="stream" channelId="57" aspect-ratio="16:9" size="Medium", DISCOVERY CHANNEL
+http://luso.pw:8080/live/fabiouk/fabioik/23213.ts
+#EXTINF:0 type="stream" channelId="207" aspect-ratio="16:9" size="Medium", NATIONAL GEOGRAPHIC HD
+http://luso.pw:8080/live/fabiouk/fabioik/23212.ts
+#EXTINF:0 type="stream" channelId="2826" aspect-ratio="16:9" tvg-country="PT" size="Medium", HISTORIA
+http://luso.pw:8080/live/fabiouk/fabioik/23218.ts
+#EXTINF:0 type="stream" channelId="1106" aspect-ratio="16:9" size="Medium", MTV PORTUGAL HD
+http://luso.pw:8080/live/fabiouk/fabioik/23230.ts
+#EXTINF:0 type="stream" channelId="151" aspect-ratio="16:9" size="Medium", VH1
+http://luso.pw:8080/live/fabiouk/fabioik/23229.ts
