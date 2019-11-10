@@ -1,0 +1,22 @@
+#EXTM3U
+ 
+#EXTINF:-1 group-title="AÇÃO",Stuber
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/STBRLEG.mp4?attachment=true
+
+#EXTINF:-1 group-title="AÇÃO",Homem-Aranha: Longe de Casa
+http://cdn.netcine.me/html/content/conteudolb4/filmes2019/HOMEMARANHACASAHDLEG-BAIXO.mp4?token=GYj0XeFT4OgZL9VoYeiv9A&expires=1571288669
+
+#EXTINF:-1 group-title="AÇÃO",Running with the Devil
+http://cdn.netcine.me/html/content/conteudolb4/filmes2019/RUNNINGWITHTHEEVILLEG-BAIXO.mp4?token=2xRTj0fZdRhMCwvIfjXL2A&expires=1571286979
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/45whWa3oODCkRQbocUWNRq8ftPw=/fit-in/290x478/smart/media/movies/covers/2019/07/doom-annihilation-cover_0190000000929794.png" group-title="AÇÃO",DOOM
+http://cdn.netcine.info/html/content/conteudolb4/filmes2019/DOOMANNIHILATION-BAIXO.mp4?token=VSFLy7zJl5BNASAEQPXF7A&expires=1573409027
+
+#EXTINF:-1 tvg-logo="https://noticiasdeindaiatuba.com.br/wp-content/uploads/2019/08/as-trapaceiras-esta-em-cartaz-no-kinoplex-480x491.jpg" group-title="COMÉDIA",As Trapaceiras
+http://cdn.netcine.info/html/content/conteudolb4/filmes2019/ASTRAPACEIRASLEG-BAIXO.mp4?token=RogjUajA9w1zB_qp1C1kjw&expires=1573409480
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTViM2Q5MGQtM2E1ZS00ZjQ1LWJlYTItYjJkNzc2ZTk3ZmVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg" group-title="AÇÃO",Running with the Devil
+http://cdn.netcine.info/html/content/conteudolb4/filmes2019/RUNNINGWITHTHEEVILLEG-BAIXO.mp4?token=bDR4W0BELtIztpCoN74VNQ&expires=1573409621
+
+#EXTINF:-1 tvg-logo="https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmPQKpugKVAcxVH41q7Sq3wzPLd6NjHZmd1PRDxafjtHgL/MV5BMTkxMTczNTA4Nl5BMl5BanBnXkFtZTgwNDAyMzgwODM@._V1_%20(1).jpg" group-title="AÇÃO",I Am Mother
+http://cdn.netcine.info/html/content/conteudolb4/filmes2019/IAMMOTHERLEG-BAIXO.mp4?token=nCEtkDMIJUGRqgwnNBwwIw&expires=1573411339
