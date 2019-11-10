@@ -1,0 +1,22 @@
+#EXTM3U
+ 
+#EXTINF:-1 group-title="AÇÃO",Stuber
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/STBRLEG.mp4?attachment=true
+
+#EXTINF:-1 group-title="AÇÃO",Homem-Aranha: Longe de Casa
+http://cdn.netcine.me/html/content/conteudolb4/filmes2019/HOMEMARANHACASAHDLEG-BAIXO.mp4?token=GYj0XeFT4OgZL9VoYeiv9A&expires=1571288669
+
+#EXTINF:-1 group-title="AÇÃO",Running with the Devil
+http://cdn.netcine.me/html/content/conteudolb4/filmes2019/RUNNINGWITHTHEEVILLEG-BAIXO.mp4?token=2xRTj0fZdRhMCwvIfjXL2A&expires=1571286979
+
+#EXTINF:-1 group-title="AÇÃO",DOOM
+http://cdn.netcine.info/html/content/conteudolb4/filmes2019/DOOMANNIHILATION-BAIXO.mp4?token=VSFLy7zJl5BNASAEQPXF7A&expires=1573409027
+
+#EXTINF:-1 group-title="COMÉDIA",As Trapaceiras
+http://cdn.netcine.info/html/content/conteudolb4/filmes2019/ASTRAPACEIRASLEG-BAIXO.mp4?token=RogjUajA9w1zB_qp1C1kjw&expires=1573409480
+
+#EXTINF:-1 group-title="AÇÃO",Running with the Devil
+http://cdn.netcine.info/html/content/conteudolb4/filmes2019/RUNNINGWITHTHEEVILLEG-BAIXO.mp4?token=bDR4W0BELtIztpCoN74VNQ&expires=1573409621
+
+#EXTINF:-1 tvg-logo="https://www.imdb.com/title/tt6292852/mediaviewer/rm1825465600" group-title="AÇÃO",I Am Mother
+http://cdn.netcine.info/html/content/conteudolb4/filmes2019/IAMMOTHERLEG-BAIXO.mp4?token=nCEtkDMIJUGRqgwnNBwwIw&expires=1573411339
