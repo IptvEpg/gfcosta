@@ -1,0 +1,199 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2849" group="CANAIS TV" aspect-ratio="16:9" tvg-country="Po" size="Medium", RTP1  HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1698.ts
+#EXTINF:0 type="stream" channelId="2833" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium", RTP 2 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1702.ts
+#EXTINF:0 type="stream" channelId="3256" group="CANAIS TV" aspect-ratio="16:9" size="Medium", SIC HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1705.ts
+#EXTINF:0 type="stream" channelId="2647" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium", TVI HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1708.ts
+#EXTINF:0 type="stream" channelId="2646" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium", SIC NOTICIAS HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1712.ts
+#EXTINF:0 type="stream" channelId="2648" group="CANAIS TV" aspect-ratio="16:9" size="Medium", TVI 24 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1713.ts
+#EXTINF:0 type="stream" channelId="3240" group="CANAIS TV" aspect-ratio="16:9" size="Medium", RTP 3
+http://luso.pw:8080/live/fabiouk1/ukfabio/1704.ts
+#EXTINF:0 type="stream" channelId="4167" group="CANAIS TV" aspect-ratio="16:9" size="Medium", CMTV FHD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1718.ts
+#EXTINF:0 type="stream" channelId="2852" group="CANAIS TV" aspect-ratio="16:9" size="Medium", SIC MULHER
+http://luso.pw:8080/live/fabiouk1/ukfabio/1727.ts
+#EXTINF:0 type="stream" channelId="3243" group="CANAIS TV" aspect-ratio="16:9" size="Medium", SIC CARAS HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1726.ts
+#EXTINF:0 type="stream" channelId="4166" group="CANAIS TV" aspect-ratio="16:9" size="Medium", Canal 11 FHD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1766.ts
+#EXTINF:0 type="stream" channelId="2644" group="CANAIS TV" aspect-ratio="16:9" size="Medium", RTP Memoria
+http://luso.pw:8080/live/fabiouk1/ukfabio/1839.ts
+#EXTINF:0 type="stream" channelId="2649" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium", TVI FICCAO
+http://luso.pw:8080/live/fabiouk1/ukfabio/1730.ts
+#EXTINF:0 type="stream" channelId="2855" group="CANAIS TV" aspect-ratio="16:9" size="Medium", PORTO CANAL HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1771.ts
+#EXTINF:0 type="stream" channelId="2863" group="CANAIS TV" aspect-ratio="16:9" size="Medium", A BOLA TV
+http://luso.pw:8080/live/fabiouk1/ukfabio/1774.ts
+#EXTINF:0 type="stream" channelId="2892" group="CANAIS TV" aspect-ratio="16:9" size="Medium", GLOBO FHD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1830.ts
+#EXTINF:0 type="stream" channelId="2562" group="CANAIS TV" aspect-ratio="16:9" size="Medium", TV RECORD HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1831.ts
+#EXTINF:0 type="stream" channelId="2853" group="CANAIS TV" aspect-ratio="16:9" size="Medium", SIC RADICAL HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1729.ts
+#EXTINF:0 type="stream" channelId="2854" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium", SIC K
+http://luso.pw:8080/live/fabiouk1/ukfabio/1827.ts
+#EXTINF:0 type="stream" channelId="2823" group="CANAIS TV" aspect-ratio="16:9" size="Medium", PANDA
+http://luso.pw:8080/live/fabiouk1/ukfabio/1820.ts
+#EXTINF:0 type="stream" channelId="1373" group="CANAIS TV" aspect-ratio="16:9" size="Medium", PANDA BIGGS
+http://luso.pw:8080/live/fabiouk1/ukfabio/1825.ts
+#EXTINF:0 type="stream" channelId="2720" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="https://www.nos.pt/particulares/televisao/guia-tv/Pages/channel.aspx?channel=66", DISNEY CHANNEL
+http://luso.pw:8080/live/fabiouk1/ukfabio/1823.ts
+#EXTINF:0 type="stream" channelId="1197" group="CANAIS TV" aspect-ratio="16:9" size="Medium", DISNEY JUNIOR
+http://luso.pw:8080/live/fabiouk1/ukfabio/1822.ts
+#EXTINF:0 type="stream" channelId="1198" group="CANAIS TV" aspect-ratio="16:9" size="Medium", DISNEY XD SD (BR)
+http://luso.pw:8080/live/fabiouk1/ukfabio/2751.ts
+#EXTINF:0 type="stream" channelId="41" group="CANAIS TV" aspect-ratio="16:9" size="Medium", NICKELODEON
+http://luso.pw:8080/live/fabiouk1/ukfabio/1821.ts
+#EXTINF:0 type="stream" channelId="322" group="CANAIS TV" size="Medium", Nick Jr
+http://luso.pw:8080/live/fabiouk1/ukfabio/1818.ts
+#EXTINF:0 type="stream" channelId="191" group="CANAIS TV" aspect-ratio="16:9" size="Medium", JIM JAM
+http://luso.pw:8080/live/fabiouk1/ukfabio/1828.ts
+#EXTINF:0 type="stream" channelId="473" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium", BABY TV
+http://luso.pw:8080/live/fabiouk1/ukfabio/1826.ts
+#EXTINF:0 type="stream" channelId="40" group="CANAIS TV" aspect-ratio="16:9" size="Medium", CARTOON NETWORK
+http://luso.pw:8080/live/fabiouk1/ukfabio/1824.ts
+#EXTINF:0 type="stream" channelId="321" group="CANAIS TV" aspect-ratio="16:9" size="Medium", BOOMERANG
+http://luso.pw:8080/live/fabiouk1/ukfabio/1819.ts
+#EXTINF:0 type="stream" channelId="321" group="CANAIS TV" aspect-ratio="16:9" size="Medium", BOOMERANG (BR)
+http://luso.pw:8080/live/fabiouk1/ukfabio/2735.ts
+#EXTINF:0 type="stream" channelId="2872" group="CANAIS TV" aspect-ratio="16:9" size="Medium", TV CINE 1 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1791.ts
+#EXTINF:0 type="stream" channelId="2871" group="CANAIS TV" aspect-ratio="16:9" size="Medium", TV CINE 1
+http://luso.pw:8080/live/fabiouk1/ukfabio/1790.ts
+#EXTINF:0 type="stream" channelId="2874" group="CANAIS TV" aspect-ratio="16:9" size="Medium", TV CINE 2 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1793.ts
+#EXTINF:0 type="stream" channelId="2876" group="CANAIS TV" aspect-ratio="16:9" size="Medium", TV CINE 3 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1795.ts
+#EXTINF:0 type="stream" channelId="2875" group="CANAIS TV" aspect-ratio="16:9" tvg-country="po" size="Medium", TV CINE 3
+http://luso.pw:8080/live/fabiouk1/ukfabio/1794.ts
+#EXTINF:0 type="stream" channelId="2878" group="CANAIS TV" aspect-ratio="16:9" size="Medium", TV CINE 4 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1797.ts
+#EXTINF:0 type="stream" channelId="2877" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium", TV CINE 4
+http://luso.pw:8080/live/fabiouk1/ukfabio/1796.ts
+#EXTINF:0 type="stream" channelId="3127" group="CANAIS TV" aspect-ratio="16:9" size="Medium", TV SERIES HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1801.ts
+#EXTINF:0 type="stream" channelId="1688" group="CANAIS TV" aspect-ratio="16:9" size="Medium", HOLLYWOOD HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1789.ts
+#EXTINF:0 type="stream" channelId="1688" group="CANAIS TV" aspect-ratio="16:9" tvg-country="Po" size="Medium", HOLLYWOOD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1788.ts
+#EXTINF:0 type="stream" channelId="3133" group="CANAIS TV" aspect-ratio="16:9" size="Medium", CINEMUNDO FHD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1806.ts
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOSHD.png" aspect-ratio="16:9" tvg-country="Po" size="Medium", NOS Studios FHD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1786.ts
+#EXTINF:0 type="stream" channelId="2246" group="CANAIS TV" aspect-ratio="16:9" size="Medium", AXN HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1798.ts
+#EXTINF:0 type="stream" channelId="3131" group="CANAIS TV" aspect-ratio="16:9" size="Medium", AXN WHITE HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1809.ts
+#EXTINF:0 type="stream" channelId="3130" group="CANAIS TV" aspect-ratio="16:9" size="Medium", AXN BLACK HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1810.ts
+#EXTINF:0 type="stream" channelId="208" group="CANAIS TV" aspect-ratio="16:9" size="Medium", FOX HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1811.ts
+#EXTINF:0 type="stream" channelId="2250" group="CANAIS TV" aspect-ratio="16:9" size="Medium", FOX COMEDY HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1817.ts
+#EXTINF:0 type="stream" channelId="205" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium", FOX LIFE HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1812.ts
+#EXTINF:0 type="stream" channelId="3244" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium", FOX CRIME HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1813.ts
+#EXTINF:0 type="stream" channelId="2493" group="CANAIS TV" aspect-ratio="16:9" size="Medium", FOX MOVIES FHD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1815.ts
+#EXTINF:0 type="stream" channelId="1862" group="CANAIS TV" aspect-ratio="16:9" size="Medium", Fox Movies
+http://luso.pw:8080/live/fabiouk1/ukfabio/1814.ts
+#EXTINF:0 type="stream" channelId="1192" group="CANAIS TV" aspect-ratio="16:9" size="Medium", SYFY FHD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1803.ts
+#EXTINF:0 type="stream" channelId="2717" group="CANAIS TV" aspect-ratio="16:9" size="Medium", AMC HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1805.ts
+#EXTINF:0 type="stream" channelId="2603" group="CANAIS TV" audio-track="eng" aspect-ratio="16:9" subtitles="por" size="Medium", TELECINE ACTION HD (BR)
+http://luso.pw:8080/live/fabiouk1/ukfabio/2711.ts
+#EXTINF:0 type="stream" channelId="2608" group="CANAIS TV" audio-track="eng" aspect-ratio="16:9" subtitles="por" size="Medium", TELECINE PIPOCA HD (BR)
+http://luso.pw:8080/live/fabiouk1/ukfabio/2713.ts
+#EXTINF:0 type="stream" channelId="3462" group="CANAIS TV" aspect-ratio="16:9" size="Medium", BLAZE
+http://luso.pw:8080/live/fabiouk1/ukfabio/1842.ts
+#EXTINF:0 type="stream" channelId="225" group="CANAIS TV" aspect-ratio="16:9" size="Medium", EUROSPORT 1 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/2910.ts
+#EXTINF:0 type="stream" channelId="83" group="CANAIS TV" aspect-ratio="16:9" size="Medium", EUROSPORT 2
+http://luso.pw:8080/live/fabiouk1/ukfabio/2909.ts
+#EXTINF:0 type="stream" channelId="1376" group="CANAIS TV" aspect-ratio="16:9" size="Medium", SPORTING TV HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1773.ts
+#EXTINF:0 type="stream" channelId="2864" group="CANAIS TV" size="Medium", BTV 1 FULL HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1768.ts
+#EXTINF:0 type="stream" channelId="3242" group="CANAIS TV" size="Medium", SPORT TV + HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1749.ts
+#EXTINF:0 type="stream" channelId="1583" group="CANAIS TV" logo="https://www.meo.pt/PublishingImages/canais/sport-tv1-hd.png" aspect-ratio="16:9" tvg-country="PT" size="Medium", SPORT TV 1 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1751.ts
+#EXTINF:0 type="stream" channelId="1582" group="CANAIS TV" tvg-country="Po" size="Medium", SPORT TV 1
+http://luso.pw:8080/live/fabiouk1/ukfabio/1750.ts
+#EXTINF:0 type="stream" channelId="2858" group="CANAIS TV" logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_2HD.png" aspect-ratio="16:9" tvg-country="PT" size="Medium", SPORT TV 2 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1754.ts
+#EXTINF:0 type="stream" channelId="2859" group="CANAIS TV" logo="https://www.meo.pt/PublishingImages/canais/sport-tv3-hd.png" tvg-country="PT" size="Medium", SPORT TV 3 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1757.ts
+#EXTINF:0 type="stream" channelId="2860" group="CANAIS TV" logo="https://www.meo.pt/PublishingImages/canais/sport-tv4-hd.png" tvg-country="PT" size="Medium", SPORT TV 4 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1760.ts
+#EXTINF:0 type="stream" channelId="2861" group="CANAIS TV" logo="https://www.meo.pt/PublishingImages/canais/sport-tv5-hd.png" tvg-country="PT" size="Medium", SPORT TV 5 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1763.ts
+#EXTINF:0 type="stream" channelId="3194" group="CANAIS TV" size="Medium", ELEVEN SPORT 1  HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1739.ts
+#EXTINF:0 type="stream" channelId="3196" group="CANAIS TV" size="Medium", ELEVEN SPORTS 2 FHD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1742.ts
+#EXTINF:0 type="stream" channelId="3195" group="CANAIS TV" size="Medium", ELEVEN SPORTS 3 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1744.ts
+#EXTINF:0 type="stream" channelId="3657" group="CANAIS TV" size="Medium", ELEVEN SPORTS 4 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1745.ts
+#EXTINF:0 type="stream" channelId="4168" group="CANAIS TV" size="Medium", ELEVEN SPORTS 5 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1746.ts
+#EXTINF:0 type="stream" channelId="4169" group="CANAIS TV" size="Medium", ELEVEN SPORTS 6 HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1747.ts
+#EXTINF:0 type="stream" channelId="3125" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium", 24 KITCHEN
+http://luso.pw:8080/live/fabiouk1/ukfabio/1859.ts
+#EXTINF:0 type="stream" channelId="3671" group="CANAIS TV" aspect-ratio="16:9" size="Medium", My Cuisine
+http://luso.pw:8080/live/fabiouk1/ukfabio/3116.ts
+#EXTINF:0 type="stream" channelId="2870" group="CANAIS TV" aspect-ratio="16:9" size="Medium", CANAL Q
+http://luso.pw:8080/live/fabiouk1/ukfabio/1853.ts
+#EXTINF:0 type="stream" channelId="2869" group="CANAIS TV" aspect-ratio="16:9" size="Medium", ODISSEIA
+http://luso.pw:8080/live/fabiouk1/ukfabio/1852.ts
+#EXTINF:0 type="stream" channelId="57" group="CANAIS TV" aspect-ratio="16:9" size="Medium", DISCOVERY CHANNEL
+http://luso.pw:8080/live/fabiouk1/ukfabio/1845.ts
+#EXTINF:0 type="stream" channelId="59" group="CANAIS TV" aspect-ratio="16:9" size="Medium", CRIME   INVESTIGATION
+http://luso.pw:8080/live/fabiouk1/ukfabio/1841.ts
+#EXTINF:0 type="stream" channelId="3055" group="CANAIS TV" aspect-ratio="16:9" tvg-country="Po" size="Medium", CRIME   INVESTIGATION
+http://luso.pw:8080/live/fabiouk1/ukfabio/1808.ts
+#EXTINF:0 type="stream" channelId="207" group="CANAIS TV" aspect-ratio="16:9" size="Medium", NATIONAL GEOGRAPHIC HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1844.ts
+#EXTINF:0 type="stream" channelId="2826" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PT" size="Medium", HISTORIA
+http://luso.pw:8080/live/fabiouk1/ukfabio/1850.ts
+#EXTINF:0 type="stream" channelId="1106" group="CANAIS TV" aspect-ratio="16:9" size="Medium", MTV PORTUGAL HD
+http://luso.pw:8080/live/fabiouk1/ukfabio/1862.ts
+#EXTINF:0 type="stream" channelId="151" group="CANAIS TV" aspect-ratio="16:9" size="Medium", VH1
+http://luso.pw:8080/live/fabiouk1/ukfabio/1861.ts
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" aspect-ratio="16:9" size="Small", Creed II
+http://luso.pw:8080/movie/fabiouk1/ukfabio/3379.mp4
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" aspect-ratio="16:9" size="Small", Joker
+http://luso.pw:8080/movie/fabiouk1/ukfabio/3380.mp4
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" aspect-ratio="16:9" size="Small", John Wick 3: Implacável
+http://luso.pw:8080/movie/fabiouk1/ukfabio/3382.mp4
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" aspect-ratio="16:9" size="Small", Gemini Man
+http://luso.pw:8080/movie/fabiouk1/ukfabio/3381.mp4
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" aspect-ratio="16:9" size="Small", Alita: Anjo de Combate
+http://luso.pw:8080/movie/fabiouk1/ukfabio/3552.mp4
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" aspect-ratio="16:9" size="Small", Vingadores: Endgame
+http://luso.pw:8080/movie/fabiouk1/ukfabio/3553.mp4
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" aspect-ratio="16:9" size="Small", Como Treinar o Seu Dragão: O Mundo Secreto
+http://luso.pw:8080/movie/fabiouk1/ukfabio/3554.mp4
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" aspect-ratio="16:9" size="Small", Fénix Negra
+http://luso.pw:8080/movie/fabiouk1/ukfabio/3555.mp4
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" aspect-ratio="16:9" size="Small", Running with the Devil
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/RNGWTDVLLEG.mp4
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" aspect-ratio="16:9" size="Small", Homem-Aranha: Longe de Casa
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMEMARNHLNGDCSALEG.mp4
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" aspect-ratio="16:9" size="Small", Stuber
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/STBRLEG.mp4
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" aspect-ratio="16:9" size="Small", Agente Asher
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/AGNTASHRLEG.mp4
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" aspect-ratio="16:9" size="Small", A Dama e o Vagabundo
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/ADMEOVGNDOLEG.mp4
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" aspect-ratio="16:9" size="Small", The Huntress: Rune of the Dead
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/THHNTRSRNEOFDEADLEG.mp4
