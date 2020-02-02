@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2849" group="CANAIS TV" aspect-ratio="16:9" tvg-country="Po" size="Medium" background="rgba(243,242,242,0.29)", RTP1  HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/6825.ts
+#EXTINF:0 type="stream" channelId="2833" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium" background="rgba(243,242,242,0.29)", RTP 2 HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/6824.ts
+#EXTINF:0 type="stream" channelId="3256" group="CANAIS TV" aspect-ratio="16:9" tvg-country="Po" size="Medium" background="rgba(243,242,242,0.29)", SIC HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/800.ts
+#EXTINF:0 type="stream" channelId="2647" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium" background="rgba(243,242,242,0.29)", TVI HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/6822.ts
+#EXTINF:0 type="stream" channelId="2646" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium" background="rgba(243,242,242,0.29)", SIC NOTICIAS HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1127.ts
+#EXTINF:0 type="stream" channelId="2648" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", TVI 24 HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1428.ts
+#EXTINF:0 type="stream" channelId="3240" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", RTP 3
+http://iptv.portugiptv.com:8010/dIJi2w1F5L/aRpD9Pfof8/1108.ts
+#EXTINF:0 type="stream" channelId="4167" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", CMTV FHD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1429.ts
+#EXTINF:0 type="stream" channelId="2852" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", SIC MULHER
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1430.ts
+#EXTINF:0 type="stream" channelId="3243" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", SIC CARAS HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/2881.ts
+#EXTINF:0 type="stream" channelId="4166" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", Canal 11 FHD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/7720.ts
+#EXTINF:0 type="stream" channelId="2644" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", RTP Memoria
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1435.ts
+#EXTINF:0 type="stream" channelId="2649" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium" background="rgba(243,242,242,0.29)", TVI FICCAO
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/3444.ts
+#EXTINF:0 type="stream" channelId="2855" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", PORTO CANAL HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1121.ts
+#EXTINF:0 type="stream" channelId="2863" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", A BOLA TV
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1446.ts
+#EXTINF:0 type="stream" channelId="2892" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", GLOBO FHD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/2763.ts
+#EXTINF:0 type="stream" channelId="2562" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", TV RECORD HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1439.ts
+#EXTINF:0 type="stream" channelId="2854" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium" background="rgba(243,242,242,0.29)", SIC K
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/3701.ts
+#EXTINF:0 type="stream" channelId="2823" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", PANDA
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1444.ts
+#EXTINF:0 type="stream" channelId="2720" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", DISNEY CHANNEL
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1441.ts
+#EXTINF:0 type="stream" channelId="1197" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", DISNEY JUNIOR
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1442.ts
+#EXTINF:0 type="stream" channelId="41" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", NICKELODEON
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1443.ts
+#EXTINF:0 type="stream" channelId="322" group="CANAIS TV" size="Medium" background="rgba(243,242,242,0.29)", Nick Jr
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/6860.ts
+#EXTINF:0 type="stream" channelId="191" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", JIM JAM
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/2829.ts
+#EXTINF:0 type="stream" channelId="473" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium" background="rgba(243,242,242,0.29)", BABY TV
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1445.ts
+#EXTINF:0 type="stream" channelId="40" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", CARTOON NETWORK
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/6844.ts
+#EXTINF:0 type="stream" channelId="2872" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PT" size="Medium" background="rgba(243,242,242,0.29)", TVCine Top HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/785.ts
+#EXTINF:0 type="stream" channelId="2871" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", TVCine Top
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/7714.ts
+#EXTINF:0 type="stream" channelId="2874" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", TVCine Edition HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/784.ts
+#EXTINF:0 type="stream" channelId="2876" group="CANAIS TV" logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", TVCine Emotion HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/790.ts
+#EXTINF:0 type="stream" channelId="2875" group="CANAIS TV" aspect-ratio="16:9" tvg-country="po" size="Medium" background="rgba(243,242,242,0.29)", TVCine Emotion
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/7712.ts
+#EXTINF:0 type="stream" channelId="2878" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", TVCine Action HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/789.ts
+#EXTINF:0 type="stream" channelId="2877" group="CANAIS TV" aspect-ratio="16:9" tvg-country="Pt" size="Medium" background="rgba(243,242,242,0.29)", TVCine Action
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/7711.ts
+#EXTINF:0 type="stream" channelId="3127" group="CANAIS TV" logo="https://www.meo.pt/PublishingImages/canais/tvseries-hd.png" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", TV SERIES HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1451.ts
+#EXTINF:0 type="stream" channelId="1688" group="CANAIS TV" aspect-ratio="16:9" tvg-country="Po" size="Medium" background="rgba(243,242,242,0.29)", HOLLYWOOD HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/6854.ts
+#EXTINF:0 type="stream" channelId="1688" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", HOLLYWOOD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1129.ts
+#EXTINF:0 type="stream" channelId="3133" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", CINEMUNDO FHD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1452.ts
+#EXTINF:0 type="stream" channelId="-1" group="CANAIS TV" logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03-720x389.jpg" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", NOS Studios FHD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/11150.ts
+#EXTINF:0 type="stream" channelId="2246" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", AXN HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1109.ts
+#EXTINF:0 type="stream" channelId="3131" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", AXN WHITE HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1110.ts
+#EXTINF:0 type="stream" channelId="3130" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", AXN BLACK HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1438.ts
+#EXTINF:0 type="stream" channelId="208" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", FOX HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1119.ts
+#EXTINF:0 type="stream" channelId="2250" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", FOX COMEDY HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1454.ts
+#EXTINF:0 type="stream" channelId="205" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium" background="rgba(243,242,242,0.29)", FOX LIFE HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1118.ts
+#EXTINF:0 type="stream" channelId="3244" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium" background="rgba(243,242,242,0.29)", FOX CRIME HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/3691.ts
+#EXTINF:0 type="stream" channelId="2493" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", FOX MOVIES FHD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/3847.ts
+#EXTINF:0 type="stream" channelId="1192" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", SYFY FHD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1128.ts
+#EXTINF:0 type="stream" channelId="2717" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", AMC HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/6834.ts
+#EXTINF:0 type="stream" channelId="3462" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", BLAZE
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/6840.ts
+#EXTINF:0 type="stream" channelId="225" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", EUROSPORT 1 HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/6848.ts
+#EXTINF:0 type="stream" channelId="83" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", EUROSPORT 2
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/2762.ts
+#EXTINF:0 type="stream" channelId="1376" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", SPORTING TV HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/793.ts
+#EXTINF:0 type="stream" channelId="2864" group="CANAIS TV" size="Medium" background="rgba(243,242,242,0.29)", BTV 1 FULL HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/10265.ts
+#EXTINF:0 type="stream" channelId="3242" group="CANAIS TV" size="Medium" background="rgba(243,242,242,0.29)", SPORT TV + HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1449.ts
+#EXTINF:0 type="stream" channelId="1583" group="CANAIS TV" aspect-ratio="16:9" tvg-country="Po" size="Medium" background="rgba(243,242,242,0.29)", SPORT TV 1 HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/799.ts
+#EXTINF:0 type="stream" channelId="1582" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", SPORT TV 1
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/3237.ts
+#EXTINF:0 type="stream" channelId="2858" group="CANAIS TV" logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/SPTV_2HD.png" aspect-ratio="16:9" tvg-country="PT" size="Medium" background="rgba(243,242,242,0.29)", SPORT TV 2 HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/798.ts
+#EXTINF:0 type="stream" channelId="2859" group="CANAIS TV" logo="https://www.meo.pt/PublishingImages/canais/sport-tv3-hd.png" tvg-country="PT" size="Medium" background="rgba(243,242,242,0.29)", SPORT TV 3 HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/797.ts
+#EXTINF:0 type="stream" channelId="2860" group="CANAIS TV" logo="https://www.meo.pt/PublishingImages/canais/sport-tv4-hd.png" tvg-country="PT" size="Medium" background="rgba(243,242,242,0.29)", SPORT TV 4 HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/796.ts
+#EXTINF:0 type="stream" channelId="2861" group="CANAIS TV" logo="https://www.meo.pt/PublishingImages/canais/sport-tv5-hd.png" tvg-country="PT" size="Medium" background="rgba(243,242,242,0.29)", SPORT TV 5 HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1658.ts
+#EXTINF:0 type="stream" channelId="3194" group="CANAIS TV" size="Medium" background="rgba(243,242,242,0.29)", ELEVEN SPORT 1  HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/5604.ts
+#EXTINF:0 type="stream" channelId="3196" group="CANAIS TV" size="Medium" background="rgba(243,242,242,0.29)", ELEVEN SPORTS 2 FHD
+http://iptv.portugiptv.com:8010/live//dIJi2w1F5L/aRpD9Pfof8/5603.ts
+#EXTINF:0 type="stream" channelId="3125" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium" background="rgba(243,242,242,0.29)", 24 KITCHEN
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1458.ts
+#EXTINF:0 type="stream" channelId="3671" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", My Cuisine
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/10263.ts
+#EXTINF:0 type="stream" channelId="2870" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", CANAL Q
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1440.ts
+#EXTINF:0 type="stream" channelId="2869" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", ODISSEIA
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1465.ts
+#EXTINF:0 type="stream" channelId="57" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", DISCOVERY CHANNEL
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1460.ts
+#EXTINF:0 type="stream" channelId="207" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", NATIONAL GEOGRAPHIC HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1462.ts
+#EXTINF:0 type="stream" channelId="2826" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PT" size="Medium" background="rgba(243,242,242,0.29)", HISTORIA
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1464.ts
+#EXTINF:0 type="stream" channelId="1106" group="CANAIS TV" aspect-ratio="16:9" tvg-country="PO" size="Medium" background="rgba(243,242,242,0.29)", MTV PORTUGAL HD
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/2757.ts
+#EXTINF:0 type="stream" channelId="151" group="CANAIS TV" aspect-ratio="16:9" size="Medium" background="rgba(243,242,242,0.29)", VH1
+http://iptv.portugiptv.com:8010/live/dIJi2w1F5L/aRpD9Pfof8/1470.ts
